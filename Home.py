@@ -23,7 +23,7 @@ st.write("# Dashboard de Crescimento da Cury Company")
 
 st.markdown(
             """
-            Dashboard de Crescimento construído para acompanhas as métricas de crescimento da Empresa, Entregadores e Restaurantes.
+            Dashboard construído para acompanhar as métricas de crescimento da Empresa, Entregadores e Restaurantes.
             ### Como utilizar este Dashboard?
             - Visão da Empresa:
                 - Visão Gerencial: Métricas gerais de comportamento;
